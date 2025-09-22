@@ -1,8 +1,8 @@
 Bloco de registros de estudo. 
 
-- 17/09/25 - L.P
-- 22/09/25 - L.P
-<!---
-EstouroDaBoiada/EstouroDaBoiada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 17/09/25 - L.P (estrategia concurso, não conta no cronograma.)
+
+. . . . . Início dos estudos pela plataforma GRAN CONCURSOS (Assinatura de 1 ano):
+- (19:16) 22/09/25 - L.P (Interpretação de texto e compreensão aula 01).
+
+- 
